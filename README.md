@@ -1,6 +1,3 @@
-Certainly, here is a more concise README:
-
----
 
 # Accent Classification from Video
 
