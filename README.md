@@ -126,22 +126,3 @@ docker run -p 5000:5000 accent-api
 * [ ] Add CI/CD via GitHub Actions
 * [ ] Optional web frontend (Streamlit or HTML form)
 
----
-
-## 👤 Author
-
-**Muhammad Al Geddawy**
-GitHub: [@MuhammadAlGeddawy](https://github.com/MuhammadAlGeddawy)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Would you like me to help commit this to your repo now, or include a `TODO.md` file to track deployment progress?
-```
