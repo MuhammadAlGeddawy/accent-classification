@@ -1,0 +1,14 @@
+| Task                                      | Status |
+| ----------------------------------------- | ------ |
+| \[ ] Clean and organize code              |        |
+| \[ ] Create Flask app with `/predict` API |        |
+| \[ ] Integrate audio extraction           |        |
+| \[ ] Load and use speechbrain model       |        |
+| \[ ] Return JSON with label + confidence  |        |
+| \[ ] Add error handling and logging       |        |
+| \[ ] Add `requirements.txt`               |        |
+| \[ ] Test locally                         |        |
+| \[ ] (Optional) Add `Dockerfile`          |        |
+| \[ ] Deploy on Render or Railway          |        |
+| \[ ] Test public endpoint                 |        |
+

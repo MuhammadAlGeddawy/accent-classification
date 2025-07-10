@@ -6,3 +6,6 @@ downloads/
 pretrained_models/
 temp_audio.wav
 .env
+# Ignore virtual environments
+venv/
+accent-class/
