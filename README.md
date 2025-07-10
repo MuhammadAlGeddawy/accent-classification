@@ -1,6 +1,3 @@
-Here is your updated `README.md` content written in **Markdown format**:
-
-
 # English Accent Classification API
 
 This project is an AI-powered accent classification API built using a pretrained model from [SpeechBrain](https://huggingface.co/speechbrain) to identify English accents from video/audio. It features a RESTful Flask API and supports input via YouTube links or local video files.
